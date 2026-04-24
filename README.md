@@ -25,3 +25,4 @@ This project analyzes financial performance and identifies the root cause of a s
 - `/data` – sample dataset
 - `/sql` – SQL queries
 - `/dashboard` – dashboard screenshot# financial-performance-analysis
+
